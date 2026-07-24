@@ -1,0 +1,30 @@
+{
+  "id": "open-research-benchmarks-framework-001",
+  "title": "Benchmark framework and reporting standard",
+  "project": "open-research-benchmarks",
+  "type": "research",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "open-science",
+    "software",
+    "reproducibility"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Reproducible benchmarks need a shared framework.",
+  "objective": "Define how research benchmarks are specified (task, dataset+license, metric, protocol, baseline, reporting) in one standard doc.",
+  "acceptanceCriteria": [
+    "Defines task, dataset/license, metric, protocol, and reporting",
+    "Requires open datasets with recorded licenses",
+    "Includes a results template",
+    "MIT header"
+  ],
+  "output": "deliverables/framework-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "open-research-benchmarks-text-classification-002",
+  "title": "Open text-classification benchmark spec",
+  "project": "open-research-benchmarks",
+  "type": "research",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "software",
+    "reproducibility"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Text classification is a common, comparable task with open data.",
+  "objective": "Define a text-classification benchmark on an open, appropriately-licensed dataset following the framework, with a baseline.",
+  "acceptanceCriteria": [
+    "Uses an open dataset with recorded license",
+    "Specifies metric, split, and run protocol",
+    "Includes a documented baseline result",
+    "MIT header"
+  ],
+  "output": "deliverables/text-classification-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}
