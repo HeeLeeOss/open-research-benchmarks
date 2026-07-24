@@ -1,0 +1,30 @@
+{
+  "id": "open-research-benchmarks-open-summarization-evaluation-benchmark--006",
+  "title": "Open summarization evaluation benchmark spec",
+  "project": "open-research-benchmarks",
+  "type": "research",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "open-science",
+    "software",
+    "reproducibility"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "large",
+  "status": "open",
+  "context": "summarization evaluation is a common, reproducible open-science task.",
+  "objective": "Define a summarization evaluation benchmark on an open, appropriately-licensed dataset following the framework, with a documented baseline.",
+  "acceptanceCriteria": [
+    "Uses an open dataset with recorded license",
+    "Specifies metric, split, and run protocol",
+    "Includes a documented baseline result",
+    "MIT header"
+  ],
+  "output": "deliverables/open-research-benchmarks-open-summarization-evaluation-benchmark--006.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "MIT"
+}

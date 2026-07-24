@@ -1,6 +1,6 @@
 {
-  "id": "open-research-benchmarks-text-classification-002",
-  "title": "Open text-classification benchmark spec",
+  "id": "open-research-benchmarks-open-named-entity-recognition-benchmark--004",
+  "title": "Open named-entity recognition benchmark spec",
   "project": "open-research-benchmarks",
   "type": "research",
   "lane": "donated",
@@ -15,15 +15,15 @@
   "deliverable": "document",
   "tokenEstimate": "medium",
   "status": "open",
-  "context": "Text classification is a common, comparable task with open data.",
-  "objective": "Define a text-classification benchmark on an open, appropriately-licensed dataset following the framework, with a baseline.",
+  "context": "named-entity recognition is a common, reproducible open-science task.",
+  "objective": "Define a named-entity recognition benchmark on an open, appropriately-licensed dataset following the framework, with a documented baseline.",
   "acceptanceCriteria": [
     "Uses an open dataset with recorded license",
     "Specifies metric, split, and run protocol",
     "Includes a documented baseline result",
     "MIT header"
   ],
-  "output": "deliverables/text-classification-002.md",
+  "output": "deliverables/open-research-benchmarks-open-named-entity-recognition-benchmark--004.md",
   "requestor": "TO BE SECURED",
   "verifiedNeed": false,
   "outputLicense": "MIT"

@@ -23,7 +23,7 @@
     "Includes a results template",
     "MIT header"
   ],
-  "output": "deliverables/framework-001.md",
+  "output": "deliverables/open-research-benchmarks-framework-001.md",
   "requestor": "TO BE SECURED",
   "verifiedNeed": false,
   "outputLicense": "MIT"
